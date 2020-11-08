@@ -1,5 +1,6 @@
 # Object-detection-with-Yolo-models
 
+![picture](Predictions and graphs/Loss.png)
 
 Yolo 1 predictions on a video: https://drive.google.com/file/d/1-IxaZj_W6y7kgcDEB2d9Z0kTUvlMGnS0/view?usp=sharing
 
