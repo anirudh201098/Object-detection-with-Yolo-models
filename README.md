@@ -1,6 +1,12 @@
 # Object-detection-with-Yolo-models
 ![alt text](https://github.com/anirudh201098/Object-detection-with-Yolo-models/blob/main/Predictions%20and%20graphs/Loss.png)
 ![alt text](https://github.com/anirudh201098/Object-detection-with-Yolo-models/blob/main/Predictions%20and%20graphs/map.png)
+
+## Predictions
+![alt text](https://github.com/anirudh201098/Object-detection-with-Yolo-models/blob/main/Predictions%20and%20graphs/yolo1.jpg)
+![alt text](https://github.com/anirudh201098/Object-detection-with-Yolo-models/blob/main/Predictions%20and%20graphs/yolo2.jpg)
+![alt text](https://github.com/anirudh201098/Object-detection-with-Yolo-models/blob/main/Predictions%20and%20graphs/yolo3.jpg)
+![alt text](https://github.com/anirudh201098/Object-detection-with-Yolo-models/blob/main/Predictions%20and%20graphs/yolo4.jpg)
 Yolo 1 predictions on a video: https://drive.google.com/file/d/1-IxaZj_W6y7kgcDEB2d9Z0kTUvlMGnS0/view?usp=sharing
 
 Yolo 2 predictions on a video: https://drive.google.com/file/d/1-HFbRBNCg2TQk19XXz-HZebMg3CXFSPu/view?usp=sharing
