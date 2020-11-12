@@ -29,5 +29,14 @@
 ### [Yolo version-4 predictions on a video](https://drive.google.com/file/d/1-TkFoi7TPFB7_36EJUXXdloGtOxUylbz/view?usp=sharing)
 
 #### References
+[1] [Yolo-1 paper](https://arxiv.org/pdf/1506.02640.pdf) 
+
+[2] [Yolo-2 paper](https://arxiv.org/pdf/1612.08242.pdf)
+
+[3] [Yolo-3 paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
+
+[4] [Yolo-4 paper](https://arxiv.org/pdf/2004.10934.pdf)
 [1] https://pjreddie.com/darknet/yolo/
+
 [2] https://github.com/AlexeyAB/darknet
+
