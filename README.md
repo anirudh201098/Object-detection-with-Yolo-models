@@ -19,7 +19,7 @@ Dataset used: [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/i
 
 ## Predictions
 ### Yolo version-1 predictions after 40k epochs
-<img src="https://github.com/anirudh201098/Object-detection-with-Yolo-models/blob/main/Predictions%20and%20graphs/yolo1.jpg" width="400" height="400>
+<img src="https://github.com/anirudh201098/Object-detection-with-Yolo-models/blob/main/Predictions%20and%20graphs/yolo1.jpg" width="400" height="400">
 
 ### Yolo version-2 predictions after 40k epochs
 ![alt text](https://github.com/anirudh201098/Object-detection-with-Yolo-models/blob/main/Predictions%20and%20graphs/yolo2.jpg)
