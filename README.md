@@ -40,7 +40,7 @@ Dataset used: [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/i
 
 ### [Yolo version-4 predictions on a video](https://drive.google.com/file/d/1-TkFoi7TPFB7_36EJUXXdloGtOxUylbz/view?usp=sharing)
 
-### Yolo weights:
+## Yolo weights
 
 #### [Yolo-1 weights file](https://drive.google.com/file/d/10gGE2AMKtTjIj40zyEqlkRYQPaQ8gu7U/view?usp=sharing)
 
