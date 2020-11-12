@@ -36,7 +36,8 @@
 [3] [Yolo-3 paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 
 [4] [Yolo-4 paper](https://arxiv.org/pdf/2004.10934.pdf)
-[1] https://pjreddie.com/darknet/yolo/
 
-[2] https://github.com/AlexeyAB/darknet
+[5] https://pjreddie.com/darknet/yolo/
+
+[6] https://github.com/AlexeyAB/darknet
 
