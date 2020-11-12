@@ -12,10 +12,10 @@ Dataset used: [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/i
 
 
 ### Loss function of Yolo versions on [PASCAL VOC 2012 dataset](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html)
-<img src="https://github.com/anirudh201098/Object-detection-with-Yolo-models/blob/main/Predictions%20and%20graphs/Loss.png"  width="450" height="300">
+<img src="https://github.com/anirudh201098/Object-detection-with-Yolo-models/blob/main/Predictions%20and%20graphs/Loss.png"  width="500" height="400">
 
-### mean Average Precision(mAP) function of Yolo on [PASCAL VOC 2012 dataset](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html) 
-<img src="https://github.com/anirudh201098/Object-detection-with-Yolo-models/blob/main/Predictions%20and%20graphs/map.png"  width="450" height="300">
+### mean Average Precision(mAP of Yolo versions on [PASCAL VOC 2012 dataset](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html) 
+<img src="https://github.com/anirudh201098/Object-detection-with-Yolo-models/blob/main/Predictions%20and%20graphs/map.png"  width="500" height="400">
 
 ## Predictions on Images
 ### Yolo version-1 predictions after 40k epochs
