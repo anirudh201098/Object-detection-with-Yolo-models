@@ -1,4 +1,15 @@
 # Object-detection-with-Yolo-models
+The goal is to recognize objects from a number of visual object classes in realistic scenes (i.e. not pre-segmented objects). It is fundamentally a supervised learning learning problem in that a training set of labelled images is provided. The twenty object classes that have been selected are:
+
+    Person: person
+    Animal: bird, cat, cow, dog, horse, sheep
+    Vehicle: aeroplane, bicycle, boat, bus, car, motorbike, train
+    Indoor: bottle, chair, dining table, potted plant, sofa, tv/monitor
+
+Dataset used: [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html)
+
+
+
 
 ## Loss function of Yolo on [PASCAL VOC 2012 dataset](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html)
 ![alt text](https://github.com/anirudh201098/Object-detection-with-Yolo-models/blob/main/Predictions%20and%20graphs/Loss.png)
