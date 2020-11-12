@@ -40,6 +40,20 @@ Dataset used: [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/i
 
 ### [Yolo version-4 predictions on a video](https://drive.google.com/file/d/1-TkFoi7TPFB7_36EJUXXdloGtOxUylbz/view?usp=sharing)
 
+### Yolo weights:
+
+#### [Yolo-1 weights file](https://drive.google.com/file/d/10gGE2AMKtTjIj40zyEqlkRYQPaQ8gu7U/view?usp=sharing)
+
+
+#### [Yolo-2 weights file](https://drive.google.com/file/d/10bfZVCsFxu88ENTElGyl_kYdPmDSeXbe/view?usp=sharing)
+
+
+#### [Yolo-3 weights file](https://drive.google.com/file/d/1-Bd76ZWfzlYP44LDO1F1lD5RQsihMZ45/view?usp=sharing)
+
+
+#### [Yolo-4 weights file](https://drive.google.com/file/d/1-j1scUl-Qzpg7QeBcW7fQCaBuioELxvY/view?usp=sharing)
+
+
 #### References
 [1] [Yolo-1 paper](https://arxiv.org/pdf/1506.02640.pdf) 
 
