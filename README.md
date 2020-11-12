@@ -20,13 +20,13 @@
 ![alt text](https://github.com/anirudh201098/Object-detection-with-Yolo-models/blob/main/Predictions%20and%20graphs/yolo4.jpg)
 
 
-### Yolo version-1 predictions on a video: https://drive.google.com/file/d/1-IxaZj_W6y7kgcDEB2d9Z0kTUvlMGnS0/view?usp=sharing
+### [Yolo version-1 predictions on a video](https://drive.google.com/file/d/1-IxaZj_W6y7kgcDEB2d9Z0kTUvlMGnS0/view?usp=sharing)
 
-### Yolo version-2 predictions on a video: https://drive.google.com/file/d/1-HFbRBNCg2TQk19XXz-HZebMg3CXFSPu/view?usp=sharing
+### [Yolo version-2 predictions on a video](https://drive.google.com/file/d/1-HFbRBNCg2TQk19XXz-HZebMg3CXFSPu/view?usp=sharing)
 
-### Yolo version-3 predictions on a video: https://drive.google.com/file/d/1-GAXnvMBKJm5X4IgBy4nQfw0Qbnl9ujL/view?usp=sharing
+### [Yolo version-3 predictions on a video](https://drive.google.com/file/d/1-GAXnvMBKJm5X4IgBy4nQfw0Qbnl9ujL/view?usp=sharing)
 
-### Yolo version-4 predictions on a video: https://drive.google.com/file/d/1-TkFoi7TPFB7_36EJUXXdloGtOxUylbz/view?usp=sharing
+### [Yolo version-4 predictions on a video](https://drive.google.com/file/d/1-TkFoi7TPFB7_36EJUXXdloGtOxUylbz/view?usp=sharing)
 
 #### References
 [1] https://pjreddie.com/darknet/yolo/
