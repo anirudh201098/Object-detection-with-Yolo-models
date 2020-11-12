@@ -30,5 +30,4 @@
 
 #### References
 [1] https://pjreddie.com/darknet/yolo/
-
 [2] https://github.com/AlexeyAB/darknet
