@@ -18,19 +18,28 @@ It is the task of correctly recognizing and efficiently locating multiple object
 # Two stage object detectors
 The architecture for most of the object detectors of this type has the following stages:
 ● First stage is responsible for generating region of interest using Region Proposal Network (RPN),
+
 ● In the second stage, the network is responsible for optimizing the classification and bounding boxes for the proposed region.
 Some of the two stage object detection algorithms are
+
 ● R-CNN
+
 ● Fast R-CNN
+
 ● Faster R-CNN
+
 ● Feature Pyramid Network
 
 # One stage object detectors
 Single stage object detectors have a single deep network to predict the bounding boxes as well as object confidence score. In one stage object detectors the image is passed through a single network for classification and localization. And has the intuition that localization is a regression problem.
 Some of the one stage object detection algorithms:
+
 ● YOLO
+
 ● YOLO (v2)
+
 ● YOLO(v3)
+
 ● YOLO(v4) 
 
 
