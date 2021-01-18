@@ -11,7 +11,7 @@ Dataset used: [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/i
 # Object detection
 It is the task of correctly recognizing and efficiently locating multiple objects in an image automatically, by a supervised machine, given a sufficiently large training set, while avoiding false predictions and multiple bounding boxes of the same object.
 
-# Categories of Object detectors:
+# Categories of Object detectors
 
 ● Single stage Object detectors
 
